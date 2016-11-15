@@ -6,6 +6,8 @@
 * Clone this repository: `git clone git@github.com:this-could-be-better/this-could-be-better.git`
 * Install [rubygems](https://rubygems.org/pages/download)
 * Install Jekyll: `gem install jekyll`
+* Install Bundle: `gem install bundle`
+* Run `bundle install`
 * Preview the site by doing `jekyll serve --watch`
 * Make your changes in a new branch (not `master`)
 * Compile your changes with `jekyll build`
