@@ -13,7 +13,7 @@
 
 Copy the server url and paste it in your browser. You should be previewing the site. 
 
-## Working
+### Working
 * Before you make any changes, create a new branch (not `master`)
 * Compile your changes with `jekyll build`
 * Commit, push your changes, and submit a pull request
